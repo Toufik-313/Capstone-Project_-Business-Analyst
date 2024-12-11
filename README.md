@@ -1,8 +1,10 @@
 # Capstone-Project_-Business-Analyst
-Introduction
+Introduction:
+
 The project involves the analysis of financial data for Western countries using Power BI, a powerful data visualization tool. The objective is to provide a comprehensive overview of sales and profit metrics across various products, segments, and regions, enabling better business decisions.
 
-Data Visualization and Analysis
+Data Visualization and Analysis:
+
 Total Sales by Product
 A bar chart displays the total sales for each product, highlighting Paseo as the top-selling product, followed by VTT, Velo, Amarilla, Montana, and Carretera. This visualization helps in identifying the most and least popular products in the market.
 
@@ -30,7 +32,8 @@ A line chart that displays profit data segmented by product and segment provides
 Total Sales by Country (Geographical Representation)
 A map visualization shows sales distribution across different countries, offering a geographic perspective of sales performance. This is useful for identifying potential markets and areas that require more focus.
 
-Summary
+Summary:
+
 Power BI has been effectively utilized to create a detailed and interactive dashboard for financial data analysis. The visualizations provide valuable insights into product performance, discount impact, regional sales, quarterly trends, and segment profitability. This comprehensive analysis aids in strategic decision-making and enhances business performance.
 
 By leveraging Power BI's capabilities, the project demonstrates the importance of data visualization in making informed business decisions and driving growth.
